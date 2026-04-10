@@ -12,7 +12,6 @@
 
 ## 🧠 Who Am I
 
-- 🚀 CEO @ Tekcify  
 - 🤖 Building AI-first products that scale  
 - ⚡ I design systems, not just features  
 - 🧠 Obsessed with speed, execution, and leverage  
