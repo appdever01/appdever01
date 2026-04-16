@@ -154,25 +154,20 @@ AI learning platform with real-time teaching and an interactive canvas. Collabor
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=appdever01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&count_private=true&include_all_commits=true" height="175" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=appdever01&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="175" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appdever01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&langs_count=10" height="165" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=appdever01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&area_color=00F7FF" height="165" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=appdever01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
-</div>
 
 ---
 
 ## Metrics
 
 <div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=appdever01&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=appdever01&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=appdever01&theme=tokyonight&utcOffset=1" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=appdever01&theme=tokyonight&exclude=html,css" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=appdever01&theme=tokyonight&exclude=html,css" width="49%" />
 </div>
+
 
 ---
 
