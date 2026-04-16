@@ -10,7 +10,6 @@
   <a href="https://x.com/naheem__x"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://github.com/appdever01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Based_in-Nigeria-009639?style=for-the-badge&labelColor=000000" />
-  <img src="https://komarev.com/ghpvc/?username=appdever01&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
 </p>
 
 </div>
