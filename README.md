@@ -78,7 +78,7 @@ Web dashboard and CLI to back up, restore, copy, schedule, and migrate PostgreSQ
 
 </td>
   </tr>
-  <tr>
+  <tr colspan=2>
     <td width="50%" valign="top">
 
 ### [Bucx](https://bucx.app)
@@ -89,16 +89,7 @@ Smart finance and digital experience. Clean UX on top of serious infrastructure.
 <a href="https://bucx.app"><img src="https://img.shields.io/badge/bucx.app-000000?style=for-the-badge&logo=stripe&logoColor=white" /></a>
 
 </td>
-    <td width="50%" valign="top">
-
-### Brimink
-`edtech`
-
-AI learning platform with real-time teaching and an interactive canvas. Collaborative, agent-assisted, built for scale.
-
-<img src="https://img.shields.io/badge/status-in_development-FFA500?style=for-the-badge" />
-
-</td>
+   
   </tr>
 </table>
 
