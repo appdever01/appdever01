@@ -24,7 +24,7 @@ const naheem = {
   focus: ["AI-first products", "autonomous agents", "scalable infra"],
   stack: ["TypeScript", "Python", "Flutter", "Node", "Postgres", "Redis"],
   principles: ["speed", "execution", "leverage"],
-  currentlyBuilding: ["Clymb", "Binx", "Bucx", "PDFx", "DBDock", "Brimink"],
+  currentlyBuilding: ["Clymb", "Binx", "Bucx", "Plud", "DBDock", "Brimink"],
   motto: "build fast, stay dangerous, ship things that matter",
 };
 ```
@@ -59,12 +59,12 @@ All-in-one AI assistant with integrated tools, deep research, and automation wor
   <tr>
     <td width="50%" valign="top">
 
-### [PDFx](https://usepdfx.com)
+### [Plud](https://useplud.com)
 `document intelligence`
 
-Chat with PDFs, generate notes, quizzes, and video explanations. Turns any document into an interactive learning surface.
+Turns any document into an interactive learning surface.
 
-<a href="https://usepdfx.com"><img src="https://img.shields.io/badge/usepdfx.com-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://useplud.com"><img src="https://img.shields.io/badge/useplud.com-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
     <td width="50%" valign="top">
