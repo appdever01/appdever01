@@ -59,12 +59,12 @@ All-in-one AI assistant with integrated tools, deep research, and automation wor
   <tr>
     <td width="50%" valign="top">
 
-### [Plud](https://useplud.com)
+### [Plud](https://plud.app)
 `document intelligence`
 
 Turns any document into an interactive learning surface.
 
-<a href="https://useplud.com"><img src="https://img.shields.io/badge/useplud.com-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://plud.app"><img src="https://img.shields.io/badge/plud.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
     <td width="50%" valign="top">
