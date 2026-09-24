@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Naheem&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%20Systems&descAlignY=60&descSize=18" width="100%"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%E2%9A%A1+Backend+%26+AI+Systems;Designing+systems%2C+not+just+features;Production+software+that+real+users+depend+on;Retrieval+%E2%80%A2+Payments+%E2%80%A2+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%E2%9A%A1+Backend+%26+AI+Systems;Designing+systems%2C+not+just+features;Production+software+that+real+users+depend+on;AI+%E2%80%A2+Payments+%E2%80%A2+Infrastructure" alt="Typing SVG" />
 </p>
 
 <p>
