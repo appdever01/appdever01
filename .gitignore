@@ -1,0 +1,8 @@
+.openai/
+.local/
+.DS_Store
+AGENTS.md
+AGENT.md
+CLAUDE.md
+CODEX.md
+setup.sh
