@@ -2,6 +2,8 @@
 
 Software engineer focused on backend systems, AI and developer tools. B.Sc. Computer Engineering student at Obafemi Awolowo University, Nigeria.
 
+I like solving practical problems and keeping the software I build simple and reliable.
+
 [Email](mailto:naheemolaide5@gmail.com) · [LinkedIn](https://linkedin.com/in/naheemolaide) · [X](https://x.com/naheem__x)
 
 Open to software engineering internships for summer 2027.
@@ -22,68 +24,10 @@ Issues, feedback and contributions are welcome. Each project's README covers its
 ## Products
 
 - [Plud](https://plud.app): Study tools built around uploaded course material, including tutoring, quizzes and flashcards.
-- [Binx](https://usebinx.com): AI assistant for WhatsApp and the web. Built conversation memory with PostgreSQL, pgvector and reranking, with background workers for summarisation and memory extraction.
-- [DBDock](https://dbdock.xyz): Database backup, restore and migration tools. Built schema analysis, type mapping and storage adapters for the CLI and hosted platform.
-- [Bucx](https://bucx.app): USDC payments on Solana, with idempotent transfers and transaction confirmation handling.
+- [Binx](https://usebinx.com): AI assistant for WhatsApp and the web, with search, reminders and document analysis.
+- [DBDock](https://dbdock.xyz): Database backup, restore and migration tools, with scheduled jobs and support for your own storage.
+- [Bucx](https://bucx.app): Stablecoin payment infrastructure for sending USDC on Solana.
 - [Clymb](https://useclymb.com): Marketing tools for planning, writing and scheduling campaigns.
-
-## How I solve problems
-
-I start by understanding the user’s problem and tracing the existing workflow. I look for the smallest complete solution, make the tradeoffs clear, and check the failure cases before calling it finished.
-
-<details>
-<summary>Plud: helping learners work with their own material</summary>
-
-A study response needs context from the learner’s uploaded material. I separate document preparation from question answering: extract the material, split it into searchable chunks, then retrieve and rerank relevant evidence for the response.
-
-```mermaid
-flowchart TD
-    Upload["Uploaded course material"] --> Extract["Extract text and structure"]
-    Extract --> Index["Create chunks and embeddings"]
-    Index --> Store[("PostgreSQL: text and vector indexes")]
-    Question["Learner question"] --> Retrieve["Retrieve relevant material"]
-    Store --> Retrieve
-    Retrieve --> Rank["Rerank and assess evidence"]
-    Rank --> Context["Assemble source context"]
-    Context --> Response["Generate study response"]
-```
-
-</details>
-
-<details>
-<summary>Binx: remembering what matters in a conversation</summary>
-
-A longer conversation leaves more history to consider for each reply. I retrieve relevant history and rerank stored facts before building the model’s context. Memory extraction and summarisation run separately from the reply path.
-
-```mermaid
-flowchart TD
-    Message["User message"] --> Retrieve["Retrieve relevant history and facts"]
-    Memory[("PostgreSQL + pgvector")] --> Retrieve
-    Retrieve --> Rank["Rerank memory candidates"]
-    Rank --> Context["Build response context"]
-    Context --> Model["Generate reply"]
-    Message -.-> Background["Background memory processing"]
-    Background --> Memory
-```
-
-</details>
-
-<details>
-<summary>DBDock: moving data between different database models</summary>
-
-MongoDB documents and PostgreSQL tables represent data differently. I analyse fields, nested structures and possible references, then produce a mapping that can be reviewed before migration. The conversion reports per-table results and errors instead of treating a partial transfer as success.
-
-```mermaid
-flowchart TD
-    Source[("MongoDB collections")] --> Analyse["Analyse fields and nested structures"]
-    Analyse --> Map["Map types and possible references"]
-    Map --> Plan["Review migration plan"]
-    Plan --> Convert["Convert and insert documents"]
-    Convert --> Target[("PostgreSQL tables")]
-    Convert --> Report["Per-table results and conversion errors"]
-```
-
-</details>
 
 ## Experience
 
