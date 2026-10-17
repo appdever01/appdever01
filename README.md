@@ -12,11 +12,11 @@ Open to software engineering internships for summer 2027.
 
 | Project | What it does |
 | --- | --- |
+| [OpenCircle](https://github.com/opencirclehq/open-circle) | Community platform with GitHub rankings, developer portfolios, open-source projects and developer tools. |
+| [CodePace](https://github.com/appdever01/codepace) | Code typing practice with speed and accuracy tracking, quick races and multiplayer rooms. |
 | [Repo Doctor](https://github.com/appdever01/repo-doctor) | Rust CLI that checks local setup requirements for Node.js and Python projects, with findings and next steps. |
 | [Editlane](https://github.com/appdever01/editlane) | Local CLI and read-only MCP server that gathers relevant source files and nearby tests for coding agents. |
 | [Skelo](https://github.com/appdever01/skelo) | Automatic skeletons and independent loading states for React, Next.js, Vue and Svelte, with layout checks. |
-| [CodePace](https://github.com/appdever01/codepace) | Code typing practice with speed and accuracy tracking, quick races and multiplayer rooms. |
-| [OpenCircle](https://github.com/opencirclehq/open-circle) | Community platform with GitHub rankings, developer portfolios, open-source projects and developer tools. |
 | [Coolify Uptime Monitor](https://github.com/appdever01/coolify-uptime-monitor) | Self-hosted monitoring with webhook and email alerts when Coolify resources go down or recover. |
 | [OneBucket](https://github.com/appdever01/one-bucket) | One file-upload API for AWS S3, Cloudflare R2, Cloudinary and local storage. |
 | [Repair WebMCP](https://github.com/appdever01/repair-webmcp) | Interactive 3D repair guides where people and AI agents work together through WebMCP. |
