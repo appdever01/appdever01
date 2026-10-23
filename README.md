@@ -1,6 +1,6 @@
 # Naheem Olaide
 
-Software engineer focused on backend systems, AI and developer tools. B.Sc. Computer Engineering student at Obafemi Awolowo University, Nigeria.
+Software engineer focused on backend systems, AI and developer tools. 
 
 I like solving practical problems and keeping the software I build simple and reliable.
 
