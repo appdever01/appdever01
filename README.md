@@ -40,7 +40,7 @@ At Tekcify, I work on backend and AI systems and deploy products with Docker and
 | Result | Event | Year |
 | --- | --- | --- |
 | 1st place, Team Block X, among 1,600+ submissions | GTCO Squad Hackathon 3.0 | 2026 |
-| Runner-up | Zenith Bank Zecathon 5.0 | 2025 |
+| 1st Runner-up | Zenith Bank Zecathon 5.0 | 2025 |
 | 1st place | HackerX Africa AI EduHack | 2024 |
 | 1st place | BuildCon Hackathon | 2023 |
 
